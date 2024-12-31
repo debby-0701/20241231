@@ -1,0 +1,38 @@
+body{
+    background-image: url(../images/mito\ w.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    color: rgb(195, 204, 223);
+}
+.bg-gray{
+    background-color: rgba(0, 0, 0, 0.445);
+}
+
+.navbar-light .navbar-brand{
+    color: rgb(195, 204, 223);
+}
+.navbar-light .navbar-nav .active>.nav-link, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show>.nav-link{
+    color: rgb(195, 204, 223);
+}
+.navbar-light .navbar-nav .nav-link{
+    color: rgb(195, 204, 223);
+}
+.contact ul{
+    list-style: none;
+    padding-left:0;
+}
+.contact ul li{
+    display: inline-block;
+    font-size: 30px;
+}
+.my_photo{
+width: 75%;
+}
+.contact ul li a{
+    color: rgb(195, 204, 223);
+}
+.contact ul li a:hover{
+   color:  rgba(0, 0, 0, 0.445);
+}
